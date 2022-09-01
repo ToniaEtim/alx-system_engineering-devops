@@ -3,3 +3,4 @@
 2. All groups the user is in
 3. changing of owner of the file
 4. Create an empty file
+5. Add execute permission
