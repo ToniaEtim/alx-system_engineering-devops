@@ -1,1 +1,1 @@
-2. printing theeffective username of the current user
+3. script that print all the groups the current user is part of
