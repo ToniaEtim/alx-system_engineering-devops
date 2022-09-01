@@ -1,1 +1,1 @@
-3. script that print all the groups the current user is part of
+3. changing of owner of the file
