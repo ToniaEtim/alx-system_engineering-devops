@@ -4,3 +4,4 @@
 3. changing of owner of the file
 4. Create an empty file
 5. Add execute permission
+6. Multip;e permission
