@@ -5,3 +5,4 @@
 4. Create an empty file
 5. Add execute permission
 6. Multip;e permission
+7. Everyone is permmited
