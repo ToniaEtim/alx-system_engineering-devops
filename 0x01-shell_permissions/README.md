@@ -6,3 +6,4 @@
 5. Add execute permission
 6. Multip;e permission
 7. Everyone is permmited
+8. No permission to everyone except the user
