@@ -1,1 +1,1 @@
-1.shell permission
+2. printing theeffective username of the current user
