@@ -1,4 +1,4 @@
-0-current_working_directory: Writing a script that prints the absolute name of the currunt working directory
+-current_working_directory: Writing a script that prints the absolute name of the currunt working directory
 1-listit: Disply the content list of your current directory
 2-bring_me_home: A script that changes the working directory to the user's home directory
 3-listfiles: Display current directory contents in a long format
@@ -19,3 +19,4 @@
 14-copy_html:Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 100-let_move:Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
 
+101-clean_emacs:Create a script that deletes all files in the current working directory that end with the character ~.
