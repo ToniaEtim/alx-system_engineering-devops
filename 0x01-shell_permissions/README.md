@@ -8,3 +8,4 @@
 7. Everyone is permmited
 8. No permission to everyone except the user
 9. Set the mode of files
+10. Set mode of the file hello the same as olleh
