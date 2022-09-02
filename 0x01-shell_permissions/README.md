@@ -9,4 +9,5 @@
 8. No permission to everyone except the user
 9. Set the mode of files
 10. Set mode of the file hello the same as olleh
-11.Owner,group users and others execute permission in all subdirectories, regular files uunchanged
+11. Owner,group users and others execute permission in all subdirectories, regular files unchanged
+12. Make directory with permission 751 in the working directory
