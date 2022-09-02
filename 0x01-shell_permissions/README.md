@@ -11,3 +11,4 @@
 10. Set mode of the file hello the same as olleh
 11. Owner,group users and others execute permission in all subdirectories, regular files unchanged
 12. Make directory with permission 751 in the working directory
+13. Change group owner
