@@ -13,3 +13,4 @@
 12. Make directory with permission 751 in the working directory
 13. Change group owner
 14. change owner and group owner
+15. Symbolic links
