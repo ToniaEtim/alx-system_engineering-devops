@@ -12,3 +12,4 @@
 11. Conver a number from base 2 to 10
 12. Combinations
 13. Print decimal
+14. Decimal to Hexadecimal
