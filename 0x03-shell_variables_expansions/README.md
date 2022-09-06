@@ -9,3 +9,4 @@
 8. Prints the result of the addition sore the value in TRUEKNOWLEDGE
 9. Divide and rule
 10. Breathe tio power love
+11. Conver a number from base 2 to 10
