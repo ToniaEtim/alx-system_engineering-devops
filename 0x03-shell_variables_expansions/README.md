@@ -7,3 +7,4 @@
 6. Create local variables
 7. Create global variables
 8. Prints the result of the addition sore the value in TRUEKNOWLEDGE
+9. Divide and rule
