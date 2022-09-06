@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x */
+find -type d -mindepth 1 | wc -l
