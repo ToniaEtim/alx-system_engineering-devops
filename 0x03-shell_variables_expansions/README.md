@@ -13,3 +13,4 @@
 12. Combinations
 13. Print decimal
 14. Decimal to Hexadecimal
+15. Encodes and decodes text using the rot13 encryption
